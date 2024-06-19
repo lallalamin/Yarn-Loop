@@ -6,3 +6,10 @@ Feature
 - User are able to save there favorite pattern
 - Go through the free pattern by categories
 - Extra: Feature that can keep trak of rows we are are crocheting
+
+Categories of Pattern
+- Animals
+- Clothes
+- Character
+- Food
+- Bag
