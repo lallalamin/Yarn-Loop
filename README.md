@@ -5,7 +5,8 @@ This will be a website that show free crochet pattern. It will safe us some time
 Feature
 - User are able to save there favorite pattern
 - Go through the free pattern by categories
-- Extra: Feature that can keep trak of rows we are are crocheting
+- Link the video of the free pattern
+- Extra: Feature that can keep track of rows we are are crocheting
 
 Categories of Pattern
 - Animals
