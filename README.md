@@ -14,3 +14,6 @@ Categories of Pattern
 - Character
 - Food
 - Bag
+
+# Pattern Page Mock UI <br>
+![Pattern Page](frontend/public/pattern-page-mock.png)
